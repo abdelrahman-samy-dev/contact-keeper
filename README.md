@@ -3,7 +3,7 @@
 A modern contact management application built with React, TypeScript, and Redux Toolkit.
 
 ## Live Demo
-**[View Live Demo](https://contact-keeper-phi.vercel.app/)**
+**[View Live Demo](https://contact-keeper-lime.vercel.app/)**
 
 ## Features
 - User registration and authentication
@@ -63,7 +63,7 @@ src/
 ## Deployment
 
 - **Repository**: [GitHub](https://github.com/abdelrahman-samy-dev/contact-keeper.git)
-- **Live Demo**: [Vercel](https://contact-keeper-phi.vercel.app/)
+- **Live Demo**: [Vercel](https://contact-keeper-lime.vercel.app/)
 
 ## License
 
